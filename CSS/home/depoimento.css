@@ -35,7 +35,6 @@
 
 .depoimento p::before {
   content: "“";
-
   left: -50px;
   top: -20px;
 }
